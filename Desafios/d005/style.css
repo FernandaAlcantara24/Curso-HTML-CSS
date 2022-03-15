@@ -1,8 +1,9 @@
 body{
     text-align: center;
+    align-items: center;
     background-color:rgb(230, 200, 200);
 }
-h2{
+h1{
     font-size: 55px;;
     border-style: double;
 }
