@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(31, 29, 29);
+}
+
+h1{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+img{
+    width: 300px;
+}
